@@ -1,0 +1,19 @@
+{
+  "name": "moneygoals",
+  "version": "1.0.0",
+  "description": "Expense Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoneyGoals/money-goals.git"
+  },
+  "author": "Michael Chiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoneyGoals/money-goals/issues"
+  },
+  "homepage": "https://github.com/MoneyGoals/money-goals#readme"
+}
